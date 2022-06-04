@@ -12435,10 +12435,6 @@ html [class*='section-'].section-top-0 {
 	text-shadow: #000 2px 1px;
 }
 
-h6{
-	color: #00aced;
-}
-
 .context-dark .form-wrap.has-error .form-input, .bg-gray-dark .form-wrap.has-error .form-input, .bg-primary .form-wrap.has-error .form-input {
 	border-color: transparent;
 }
