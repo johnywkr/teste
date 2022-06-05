@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6, [class*='heading-'] {
 	font-weight: 600;
 	font-family: "Montserrat", sans-serif, Arial, sans-serif;
 	letter-spacing: normal;
-	color: #151515;
+	color: #fdfbfb;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, [class*='heading-'] a {
@@ -19775,6 +19775,7 @@ h1 + .tabs-line {
 	}
 	.tabs-horizontal.tabs-line .nav-link.active::after {
 		width: 100%;
+		margin-bottom: 7px;
 	}
 	.tabs-horizontal.tabs-line * + .tab-content {
 		margin-top: 30px;
